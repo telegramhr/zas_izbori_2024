@@ -1,0 +1,54 @@
+{
+  "izbori": "Zastupnički izbori 2024",
+  "datum": "18.04.2024.",
+  "vrijeme": "00:30",
+  "izboriOznaka": "53",
+  "ijSifra": "012",
+  "bmSifra": "000",
+  "ijNaziv": "XII. IZBORNA JEDINICA",
+  "gropNaziv": "",
+  "bmNaziv": "",
+  "bmZatvoreno": 6456,
+  "bmUkupno": 6990,
+  "biraciUkupno": 4412,
+  "biraciGlasovalo": 4412,
+  "biraciGlasovaloPosto": "100,00",
+  "listiciUkupno": 4408,
+  "listiciVazeci": 4349,
+  "listiciVazeciPosto": "98,66",
+  "listiciNevazeci": 59,
+  "listiciNevazeciPosto": "1,34",
+  "napomena": "* - objavljeni rezultati sadrže i podatke s posebnih biračkih mjesta te s biračkih mjesta u inozemstvu",
+  "napomena2": "",
+  "lista": [{
+    "rbr": 1,
+    "stranke": [
+      {"naziv": "SAVEZ ROMA U REPUBLICI HRVATSKOJ \"KALI SARA\" - SRRH \"KALI SARA\""}
+    ],
+    "jedinstvenaSifra": "1155",
+    "glasova": 2559,
+    "naziv": "VELJKO KAJTAZI",
+    "posto": "",
+    "lista": []
+  },{
+    "rbr": 2,
+    "stranke": [
+      {"naziv": "\"UDRUGA ROMA KORAK PO KORAK\""}
+    ],
+    "jedinstvenaSifra": "1284",
+    "glasova": 1369,
+    "naziv": "FRANJO HORVAT",
+    "posto": "",
+    "lista": []
+  },{
+    "rbr": 3,
+    "stranke": [
+      {"naziv": "ELVIS KRALJ  - KANDIDAT GRUPE BIRAČA"}
+    ],
+    "jedinstvenaSifra": "4601",
+    "glasova": 421,
+    "naziv": "ELVIS KRALJ",
+    "posto": "",
+    "lista": []
+  }]
+}

@@ -1,0 +1,44 @@
+{
+  "izbori": "Zastupnički izbori 2024",
+  "datum": "18.04.2024.",
+  "vrijeme": "07:45",
+  "izboriOznaka": "43",
+  "ijSifra": "012",
+  "bmSifra": "000",
+  "ijNaziv": "XII. IZBORNA JEDINICA",
+  "gropNaziv": "",
+  "bmNaziv": "",
+  "bmZatvoreno": 6988,
+  "bmUkupno": 6990,
+  "biraciUkupno": 1908,
+  "biraciGlasovalo": 1908,
+  "biraciGlasovaloPosto": "100,00",
+  "listiciUkupno": 1907,
+  "listiciVazeci": 1896,
+  "listiciVazeciPosto": "99,42",
+  "listiciNevazeci": 11,
+  "listiciNevazeciPosto": "0,58",
+  "napomena": "* - objavljeni rezultati sadrže i podatke s posebnih biračkih mjesta te s biračkih mjesta u inozemstvu",
+  "napomena2": "",
+  "lista": [{
+    "rbr": 1,
+    "stranke": [
+      {"naziv": "VLADIMIR BILEK  - KANDIDAT GRUPE BIRAČA"}
+    ],
+    "jedinstvenaSifra": "4604",
+    "glasova": 1764,
+    "naziv": "VLADIMIR BILEK",
+    "posto": "",
+    "lista": []
+  },{
+    "rbr": 2,
+    "stranke": [
+      {"naziv": "MATICA SLOVAČKA OSIJEK - MSO"}
+    ],
+    "jedinstvenaSifra": "1285",
+    "glasova": 132,
+    "naziv": "IVAN KOMAK",
+    "posto": "",
+    "lista": []
+  }]
+}

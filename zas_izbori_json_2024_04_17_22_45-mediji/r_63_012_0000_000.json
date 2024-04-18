@@ -1,0 +1,64 @@
+{
+  "izbori": "Zastupnički izbori 2024",
+  "datum": "17.04.2024.",
+  "vrijeme": "22:45",
+  "izboriOznaka": "63",
+  "ijSifra": "012",
+  "bmSifra": "000",
+  "ijNaziv": "XII. IZBORNA JEDINICA",
+  "gropNaziv": "",
+  "bmNaziv": "",
+  "bmZatvoreno": 4939,
+  "bmUkupno": 6990,
+  "biraciUkupno": 3339,
+  "biraciGlasovalo": 3339,
+  "biraciGlasovaloPosto": "100,00",
+  "listiciUkupno": 3337,
+  "listiciVazeci": 3317,
+  "listiciVazeciPosto": "99,40",
+  "listiciNevazeci": 20,
+  "listiciNevazeciPosto": "0,60",
+  "napomena": "* - objavljeni rezultati sadrže i podatke s posebnih biračkih mjesta te s biračkih mjesta u inozemstvu",
+  "napomena2": "",
+  "lista": [{
+    "rbr": 1,
+    "stranke": [
+      {"naziv": "BOŠNJACI ZAJEDNO! - NACIONALNA KOORDINACIJA BOŠNJAKA U REPUBLICI HRVATSKOJ - BOŠNJACI ZAJEDNO!"}
+    ],
+    "jedinstvenaSifra": "1283",
+    "glasova": 1571,
+    "naziv": "ARMIN HODŽIĆ",
+    "posto": "",
+    "lista": []
+  },{
+    "rbr": 2,
+    "stranke": [
+      {"naziv": "UNIJA ALBANACA U REPUBLICI HRVATSKOJ - UARH"}
+    ],
+    "jedinstvenaSifra": "534",
+    "glasova": 1118,
+    "naziv": "ERMINA LEKAJ PRLJASKAJ",
+    "posto": "",
+    "lista": []
+  },{
+    "rbr": 3,
+    "stranke": [
+      {"naziv": "ŠOIP ŠOIPI  - KANDIDAT GRUPE BIRAČA"}
+    ],
+    "jedinstvenaSifra": "4605",
+    "glasova": 585,
+    "naziv": "ŠOIP ŠOIPI",
+    "posto": "",
+    "lista": []
+  },{
+    "rbr": 4,
+    "stranke": [
+      {"naziv": "SULEJMAN TABAKOVIĆ  - KANDIDAT GRUPE BIRAČA"}
+    ],
+    "jedinstvenaSifra": "4606",
+    "glasova": 43,
+    "naziv": "SULEJMAN TABAKOVIĆ",
+    "posto": "",
+    "lista": []
+  }]
+}

@@ -1,0 +1,44 @@
+{
+  "izbori": "Zastupnički izbori 2024",
+  "datum": "18.04.2024.",
+  "vrijeme": "03:45",
+  "izboriOznaka": "33",
+  "ijSifra": "012",
+  "bmSifra": "000",
+  "ijNaziv": "XII. IZBORNA JEDINICA",
+  "gropNaziv": "",
+  "bmNaziv": "",
+  "bmZatvoreno": 6967,
+  "bmUkupno": 6990,
+  "biraciUkupno": 1937,
+  "biraciGlasovalo": 1937,
+  "biraciGlasovaloPosto": "100,00",
+  "listiciUkupno": 1937,
+  "listiciVazeci": 1894,
+  "listiciVazeciPosto": "97,78",
+  "listiciNevazeci": 43,
+  "listiciNevazeciPosto": "2,22",
+  "napomena": "* - objavljeni rezultati sadrže i podatke s posebnih biračkih mjesta te s biračkih mjesta u inozemstvu",
+  "napomena2": "",
+  "lista": [{
+    "rbr": 1,
+    "stranke": [
+      {"naziv": "FURIO RADIN  - KANDIDAT GRUPE BIRAČA"}
+    ],
+    "jedinstvenaSifra": "4603",
+    "glasova": 959,
+    "naziv": "FURIO RADIN",
+    "posto": "",
+    "lista": []
+  },{
+    "rbr": 2,
+    "stranke": [
+      {"naziv": "CORRADO DUSSICH  - KANDIDAT GRUPE BIRAČA"}
+    ],
+    "jedinstvenaSifra": "4607",
+    "glasova": 935,
+    "naziv": "CORRADO DUSSICH",
+    "posto": "",
+    "lista": []
+  }]
+}

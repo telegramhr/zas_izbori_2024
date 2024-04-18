@@ -1,0 +1,1330 @@
+{
+  "izbori": "Zastupnički izbori 2024",
+  "datum": "18.04.2024.",
+  "vrijeme": "00:00",
+  "izboriOznaka": "02",
+  "ijSifra": "006",
+  "bmSifra": "000",
+  "ijNaziv": "VI. IZBORNA JEDINICA",
+  "gropNaziv": "ZAGREB - VI. IZBORNA JEDINICA",
+  "bmNaziv": "",
+  "bmZatvoreno": 121,
+  "bmUkupno": 215,
+  "biraciUkupno": 131366,
+  "biraciGlasovalo": 90331,
+  "biraciGlasovaloPosto": "68,76",
+  "listiciUkupno": 90183,
+  "listiciVazeci": 88183,
+  "listiciVazeciPosto": "97,78",
+  "listiciNevazeci": 2000,
+  "listiciNevazeciPosto": "2,22",
+  "napomena": "* - objavljeni rezultati sadrže podatke samo s redovnih biračkih mjesta",
+  "napomena2": "",
+  "lista": [{
+    "rbr": 1,
+    "stranke": [
+      {"naziv": "HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ"},
+      {"naziv": "HRVATSKA SOCIJALNO - LIBERALNA STRANKA - HSLS"},
+      {"naziv": "HRVATSKA DEMOKRŠĆANSKA STRANKA - HDS"},
+      {"naziv": "HRVATSKA NARODNA STRANKA - LIBERALNI DEMOKRATI - HNS"},
+      {"naziv": "HRVATSKA STRANKA UMIROVLJENIKA - HSU"}
+    ],
+    "jedinstvenaSifra": "001002003011023",
+    "glasova": 21457,
+    "naziv": "HDZ, HSLS, HDS, HNS, HSU",
+    "posto": "24,33",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "DAVOR BOŽINOVIĆ",
+      "glasova": 5379,
+      "posto": "25,06"
+    },{
+      "rbr": 2,
+      "naziv": "VILI BEROŠ",
+      "glasova": 1374,
+      "posto": "6,40"
+    },{
+      "rbr": 3,
+      "naziv": "MISLAV HERMAN",
+      "glasova": 1011,
+      "posto": "4,71"
+    },{
+      "rbr": 4,
+      "naziv": "MARKO PRIMORAC",
+      "glasova": 1070,
+      "posto": "4,98"
+    },{
+      "rbr": 5,
+      "naziv": "ŽELJKO TURK",
+      "glasova": 197,
+      "posto": "0,91"
+    },{
+      "rbr": 6,
+      "naziv": "DAVOR IVO STIER",
+      "glasova": 2090,
+      "posto": "9,74"
+    },{
+      "rbr": 7,
+      "naziv": "RADOVAN FUCHS",
+      "glasova": 197,
+      "posto": "0,91"
+    },{
+      "rbr": 8,
+      "naziv": "MARKO PAVIĆ",
+      "glasova": 185,
+      "posto": "0,86"
+    },{
+      "rbr": 9,
+      "naziv": "DANIJELA BLAŽANOVIĆ",
+      "glasova": 324,
+      "posto": "1,50"
+    },{
+      "rbr": 10,
+      "naziv": "MIRJANA KUJUNDŽIĆ TILJAK",
+      "glasova": 176,
+      "posto": "0,82"
+    },{
+      "rbr": 11,
+      "naziv": "TOMISLAV DULIBIĆ",
+      "glasova": 129,
+      "posto": "0,60"
+    },{
+      "rbr": 12,
+      "naziv": "MARIJA VRHOVSKI",
+      "glasova": 191,
+      "posto": "0,89"
+    },{
+      "rbr": 13,
+      "naziv": "IVAN ĆELIĆ",
+      "glasova": 435,
+      "posto": "2,02"
+    },{
+      "rbr": 14,
+      "naziv": "MILJENKO FILIPOVIĆ",
+      "glasova": 317,
+      "posto": "1,47"
+    }]
+  },{
+    "rbr": 2,
+    "stranke": [
+      {"naziv": "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP"},
+      {"naziv": "CENTAR"},
+      {"naziv": "HRVATSKA SELJAČKA STRANKA - HSS"},
+      {"naziv": "\"DALIJA OREŠKOVIĆ I LJUDI S IMENOM I PREZIMENOM\" - \"DO i SIP\""},
+      {"naziv": "NARODNA STRANKA - REFORMISTI - REFORMISTI"},
+      {"naziv": "GRAĐANSKO-LIBERALNI SAVEZ - GLAS"}
+    ],
+    "jedinstvenaSifra": "004017162179244306",
+    "glasova": 20187,
+    "naziv": "SDP, CENTAR, HSS, \"DO i SIP\", REFORMISTI, GLAS",
+    "posto": "22,89",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "MIHAEL ZMAJLOVIĆ",
+      "glasova": 2117,
+      "posto": "10,48"
+    },{
+      "rbr": 2,
+      "naziv": "MARIJA LUGARIĆ",
+      "glasova": 620,
+      "posto": "3,07"
+    },{
+      "rbr": 3,
+      "naziv": "KREŠO BELJAK",
+      "glasova": 1961,
+      "posto": "9,71"
+    },{
+      "rbr": 4,
+      "naziv": "IVAN RAČAN",
+      "glasova": 2052,
+      "posto": "10,16"
+    },{
+      "rbr": 5,
+      "naziv": "SANJA MAJOR",
+      "glasova": 189,
+      "posto": "0,93"
+    },{
+      "rbr": 6,
+      "naziv": "ZVONIMIR NOVOSEL",
+      "glasova": 130,
+      "posto": "0,64"
+    },{
+      "rbr": 7,
+      "naziv": "MAJA GRAČANIN",
+      "glasova": 114,
+      "posto": "0,56"
+    },{
+      "rbr": 8,
+      "naziv": "ALEN ČIČAK",
+      "glasova": 186,
+      "posto": "0,92"
+    },{
+      "rbr": 9,
+      "naziv": "SUZANNA BUČIĆ",
+      "glasova": 90,
+      "posto": "0,44"
+    },{
+      "rbr": 10,
+      "naziv": "ALEN PRELEC",
+      "glasova": 39,
+      "posto": "0,19"
+    },{
+      "rbr": 11,
+      "naziv": "DARKO VULETIĆ",
+      "glasova": 101,
+      "posto": "0,50"
+    },{
+      "rbr": 12,
+      "naziv": "IVANA FUNDURULIĆ",
+      "glasova": 71,
+      "posto": "0,35"
+    },{
+      "rbr": 13,
+      "naziv": "MARTA ANA CESAR",
+      "glasova": 88,
+      "posto": "0,43"
+    },{
+      "rbr": 14,
+      "naziv": "ALKA VUICA",
+      "glasova": 1307,
+      "posto": "6,47"
+    }]
+  },{
+    "rbr": 3,
+    "stranke": [
+      {"naziv": "MOŽEMO! - POLITIČKA PLATFORMA"}
+    ],
+    "jedinstvenaSifra": "255",
+    "glasova": 18405,
+    "naziv": "MOŽEMO! - POLITIČKA PLATFORMA",
+    "posto": "20,87",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "TOMISLAV TOMAŠEVIĆ",
+      "glasova": 7566,
+      "posto": "41,10"
+    },{
+      "rbr": 2,
+      "naziv": "URŠA RAUKAR-GAMULIN",
+      "glasova": 1022,
+      "posto": "5,55"
+    },{
+      "rbr": 3,
+      "naziv": "GORDAN BOSANAC",
+      "glasova": 173,
+      "posto": "0,93"
+    },{
+      "rbr": 4,
+      "naziv": "RADA BORIĆ",
+      "glasova": 614,
+      "posto": "3,33"
+    },{
+      "rbr": 5,
+      "naziv": "MARIN ŽIVKOVIĆ",
+      "glasova": 85,
+      "posto": "0,46"
+    },{
+      "rbr": 6,
+      "naziv": "MARIJANA RIMANIĆ",
+      "glasova": 86,
+      "posto": "0,46"
+    },{
+      "rbr": 7,
+      "naziv": "TOMISLAV VUKOJA",
+      "glasova": 109,
+      "posto": "0,59"
+    },{
+      "rbr": 8,
+      "naziv": "IVANA BRAJDIĆ",
+      "glasova": 167,
+      "posto": "0,90"
+    },{
+      "rbr": 9,
+      "naziv": "ZVONIMIR GLAVAŠ",
+      "glasova": 84,
+      "posto": "0,45"
+    },{
+      "rbr": 10,
+      "naziv": "ALEKSANDAR HATZIVELKOS",
+      "glasova": 72,
+      "posto": "0,39"
+    },{
+      "rbr": 11,
+      "naziv": "NENAD LJUBIĆ",
+      "glasova": 21,
+      "posto": "0,11"
+    },{
+      "rbr": 12,
+      "naziv": "ELVIRA MULIĆ",
+      "glasova": 51,
+      "posto": "0,27"
+    },{
+      "rbr": 13,
+      "naziv": "DONAT RADAS",
+      "glasova": 37,
+      "posto": "0,20"
+    },{
+      "rbr": 14,
+      "naziv": "MARIJANA SUMPOR",
+      "glasova": 119,
+      "posto": "0,64"
+    }]
+  },{
+    "rbr": 4,
+    "stranke": [
+      {"naziv": "MOST"},
+      {"naziv": "HRVATSKI SUVERENISTI"},
+      {"naziv": "HRVATSKA KONZERVATIVNA STRANKA - HKS"},
+      {"naziv": "NEZAVISNA LISTA MLADIH - NLM"}
+    ],
+    "jedinstvenaSifra": "131165188263",
+    "glasova": 9338,
+    "naziv": "MOST, HRVATSKI SUVERENISTI, HKS, NLM",
+    "posto": "10,58",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "NIKOLA GRMOJA",
+      "glasova": 5157,
+      "posto": "55,22"
+    },{
+      "rbr": 2,
+      "naziv": "MARKO SLADOLJEV",
+      "glasova": 625,
+      "posto": "6,69"
+    },{
+      "rbr": 3,
+      "naziv": "IVANA KUKOR",
+      "glasova": 43,
+      "posto": "0,46"
+    },{
+      "rbr": 4,
+      "naziv": "LUKA JOVIĆ",
+      "glasova": 16,
+      "posto": "0,17"
+    },{
+      "rbr": 5,
+      "naziv": "FILIP FIŠIĆ",
+      "glasova": 93,
+      "posto": "0,99"
+    },{
+      "rbr": 6,
+      "naziv": "MATEA BARIŠIĆ",
+      "glasova": 56,
+      "posto": "0,59"
+    },{
+      "rbr": 7,
+      "naziv": "TOMISLAV IVIR",
+      "glasova": 15,
+      "posto": "0,16"
+    },{
+      "rbr": 8,
+      "naziv": "ANITA RADIČEVIĆ",
+      "glasova": 42,
+      "posto": "0,44"
+    },{
+      "rbr": 9,
+      "naziv": "IVAN ORLOVIĆ",
+      "glasova": 63,
+      "posto": "0,67"
+    },{
+      "rbr": 10,
+      "naziv": "ANTONIJA JONJIĆ",
+      "glasova": 38,
+      "posto": "0,40"
+    },{
+      "rbr": 11,
+      "naziv": "DANIJELA HUBLIN",
+      "glasova": 21,
+      "posto": "0,22"
+    },{
+      "rbr": 12,
+      "naziv": "LUKA JAJČINOVIĆ",
+      "glasova": 47,
+      "posto": "0,50"
+    },{
+      "rbr": 13,
+      "naziv": "IVANA FRLJIĆ MARKOVIĆ",
+      "glasova": 22,
+      "posto": "0,23"
+    },{
+      "rbr": 14,
+      "naziv": "MARKO MILANOVIĆ LITRE",
+      "glasova": 199,
+      "posto": "2,13"
+    }]
+  },{
+    "rbr": 5,
+    "stranke": [
+      {"naziv": "DOMOVINSKI POKRET - DP"},
+      {"naziv": "PRAVO I PRAVDA"},
+      {"naziv": "DEMOKRATSKI HSS - DHSS"},
+      {"naziv": "ZELENA LISTA"},
+      {"naziv": "AGRAMERI - NEZAVISNA LISTA"}
+    ],
+    "jedinstvenaSifra": "231267274283312",
+    "glasova": 7896,
+    "naziv": "DP, PRAVO I PRAVDA, DHSS, ZELENA LISTA, AGRAMERI - NEZAVISNA LISTA",
+    "posto": "8,95",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "IGOR PETERNEL",
+      "glasova": 2330,
+      "posto": "29,50"
+    },{
+      "rbr": 2,
+      "naziv": "IVAN LOVRINOVIĆ",
+      "glasova": 929,
+      "posto": "11,76"
+    },{
+      "rbr": 3,
+      "naziv": "SLAVEN DOBROVIĆ",
+      "glasova": 524,
+      "posto": "6,63"
+    },{
+      "rbr": 4,
+      "naziv": "ŽELJKO PERVAN",
+      "glasova": 838,
+      "posto": "10,61"
+    },{
+      "rbr": 5,
+      "naziv": "GORDANA JURANKO",
+      "glasova": 48,
+      "posto": "0,60"
+    },{
+      "rbr": 6,
+      "naziv": "GORAN JELIĆ",
+      "glasova": 58,
+      "posto": "0,73"
+    },{
+      "rbr": 7,
+      "naziv": "IVAN GRUBIŠIĆ",
+      "glasova": 112,
+      "posto": "1,41"
+    },{
+      "rbr": 8,
+      "naziv": "BORIS JACOVIĆ",
+      "glasova": 58,
+      "posto": "0,73"
+    },{
+      "rbr": 9,
+      "naziv": "DAMIR ČIČKO",
+      "glasova": 18,
+      "posto": "0,22"
+    },{
+      "rbr": 10,
+      "naziv": "LJILJANA POPOVAČKI RAČIĆ",
+      "glasova": 22,
+      "posto": "0,27"
+    },{
+      "rbr": 11,
+      "naziv": "SNJEŽANA JUKIĆ",
+      "glasova": 59,
+      "posto": "0,74"
+    },{
+      "rbr": 12,
+      "naziv": "ANKICA HRSAN",
+      "glasova": 20,
+      "posto": "0,25"
+    },{
+      "rbr": 13,
+      "naziv": "DRAŽEN KÜHN",
+      "glasova": 28,
+      "posto": "0,35"
+    },{
+      "rbr": 14,
+      "naziv": "DANIEL BABIĆ",
+      "glasova": 24,
+      "posto": "0,30"
+    }]
+  },{
+    "rbr": 6,
+    "stranke": [
+      {"naziv": "FOKUS"},
+      {"naziv": "REPUBLIKA"}
+    ],
+    "jedinstvenaSifra": "270310",
+    "glasova": 4411,
+    "naziv": "FOKUS, REPUBLIKA",
+    "posto": "5,00",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "DAVOR NAĐI",
+      "glasova": 1344,
+      "posto": "30,46"
+    },{
+      "rbr": 2,
+      "naziv": "PETRA ŠKROBOT",
+      "glasova": 178,
+      "posto": "4,03"
+    },{
+      "rbr": 3,
+      "naziv": "VEDRAN JERKOVIĆ",
+      "glasova": 74,
+      "posto": "1,67"
+    },{
+      "rbr": 4,
+      "naziv": "MIROSLAV PUČKO",
+      "glasova": 44,
+      "posto": "0,99"
+    },{
+      "rbr": 5,
+      "naziv": "MARIO BUDIŠĆAK",
+      "glasova": 33,
+      "posto": "0,74"
+    },{
+      "rbr": 6,
+      "naziv": "VLATKA PAŽIN",
+      "glasova": 37,
+      "posto": "0,83"
+    },{
+      "rbr": 7,
+      "naziv": "GORAN NAVOJ",
+      "glasova": 11,
+      "posto": "0,24"
+    },{
+      "rbr": 8,
+      "naziv": "GORDANA BABIĆ",
+      "glasova": 15,
+      "posto": "0,34"
+    },{
+      "rbr": 9,
+      "naziv": "GABRIJEL DEAK",
+      "glasova": 38,
+      "posto": "0,86"
+    },{
+      "rbr": 10,
+      "naziv": "MARIJA LINDIĆ",
+      "glasova": 7,
+      "posto": "0,15"
+    },{
+      "rbr": 11,
+      "naziv": "SAŠA TOMEČAK",
+      "glasova": 12,
+      "posto": "0,27"
+    },{
+      "rbr": 12,
+      "naziv": "IVANA MIŠLOV",
+      "glasova": 6,
+      "posto": "0,13"
+    },{
+      "rbr": 13,
+      "naziv": "DOROTEA GRGEC",
+      "glasova": 23,
+      "posto": "0,52"
+    },{
+      "rbr": 14,
+      "naziv": "DARIO ZUROVEC",
+      "glasova": 1008,
+      "posto": "22,85"
+    }]
+  },{
+    "rbr": 7,
+    "stranke": [
+      {"naziv": "UMIROVLJENICI ZAJEDNO - POLITIČKA PLATFORMA - UMIROVLJENICI ZAJEDNO"},
+      {"naziv": "STRANKA UMIROVLJENIKA - SU"},
+      {"naziv": "BLOK UMIROVLJENICI ZAJEDNO - BUZ"},
+      {"naziv": "DEMOKRATSKA STRANKA UMIROVLJENIKA - DSU"}
+    ],
+    "jedinstvenaSifra": "039041102301",
+    "glasova": 1706,
+    "naziv": "UMIROVLJENICI ZAJEDNO, SU, BUZ, DSU",
+    "posto": "1,93",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "LAZAR GRUJIĆ",
+      "glasova": 260,
+      "posto": "15,24"
+    },{
+      "rbr": 2,
+      "naziv": "MLADEN NOVOSEL",
+      "glasova": 183,
+      "posto": "10,72"
+    },{
+      "rbr": 3,
+      "naziv": "KATICA BABIĆ",
+      "glasova": 103,
+      "posto": "6,03"
+    },{
+      "rbr": 4,
+      "naziv": "ĐURO MUČNJAK",
+      "glasova": 14,
+      "posto": "0,82"
+    },{
+      "rbr": 5,
+      "naziv": "RENATA TRESELJ",
+      "glasova": 27,
+      "posto": "1,58"
+    },{
+      "rbr": 6,
+      "naziv": "EDUARD MISSONI",
+      "glasova": 14,
+      "posto": "0,82"
+    },{
+      "rbr": 7,
+      "naziv": "DUBRAVKO ČAČKOVIĆ",
+      "glasova": 10,
+      "posto": "0,58"
+    },{
+      "rbr": 8,
+      "naziv": "TOMISLAVA DEDIĆ",
+      "glasova": 18,
+      "posto": "1,05"
+    },{
+      "rbr": 9,
+      "naziv": "NEVENKA PINCULIĆ",
+      "glasova": 13,
+      "posto": "0,76"
+    },{
+      "rbr": 10,
+      "naziv": "DARKO VRKLJAN",
+      "glasova": 23,
+      "posto": "1,34"
+    },{
+      "rbr": 11,
+      "naziv": "DRAGAN MOMČILOVIĆ",
+      "glasova": 12,
+      "posto": "0,70"
+    },{
+      "rbr": 12,
+      "naziv": "DRAGICA MUČNJAK",
+      "glasova": 20,
+      "posto": "1,17"
+    },{
+      "rbr": 13,
+      "naziv": "DARKO JUREC",
+      "glasova": 12,
+      "posto": "0,70"
+    },{
+      "rbr": 14,
+      "naziv": "VLATKA NOVOSEL",
+      "glasova": 62,
+      "posto": "3,63"
+    }]
+  },{
+    "rbr": 8,
+    "stranke": [
+      {"naziv": "ODLUČNOST I PRAVEDNOST - OIP"}
+    ],
+    "jedinstvenaSifra": "300",
+    "glasova": 1211,
+    "naziv": "OIP",
+    "posto": "1,37",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "DAVOR KRIVSKI",
+      "glasova": 126,
+      "posto": "10,40"
+    },{
+      "rbr": 2,
+      "naziv": "IVICA KOVAČIĆ",
+      "glasova": 45,
+      "posto": "3,71"
+    },{
+      "rbr": 3,
+      "naziv": "KRISTIJAN MILOŠ",
+      "glasova": 19,
+      "posto": "1,56"
+    },{
+      "rbr": 4,
+      "naziv": "CARLO KOSIJER",
+      "glasova": 4,
+      "posto": "0,33"
+    },{
+      "rbr": 5,
+      "naziv": "MIROSLAV KUŠEK",
+      "glasova": 11,
+      "posto": "0,90"
+    },{
+      "rbr": 6,
+      "naziv": "KATARINA KOVAČEVIĆ",
+      "glasova": 68,
+      "posto": "5,61"
+    },{
+      "rbr": 7,
+      "naziv": "KRISTINA ZEČEVIĆ",
+      "glasova": 29,
+      "posto": "2,39"
+    },{
+      "rbr": 8,
+      "naziv": "TOMISLAV POŽEGA",
+      "glasova": 34,
+      "posto": "2,80"
+    },{
+      "rbr": 9,
+      "naziv": "ZDENKO ČIČEK",
+      "glasova": 1,
+      "posto": "0,08"
+    },{
+      "rbr": 10,
+      "naziv": "DRAŽEN RUNJE",
+      "glasova": 6,
+      "posto": "0,49"
+    },{
+      "rbr": 11,
+      "naziv": "BRANISLAV MIHALJEVIĆ",
+      "glasova": 10,
+      "posto": "0,82"
+    },{
+      "rbr": 12,
+      "naziv": "LAURA PODOBNIK",
+      "glasova": 24,
+      "posto": "1,98"
+    },{
+      "rbr": 13,
+      "naziv": "DARIJA BADROV",
+      "glasova": 15,
+      "posto": "1,23"
+    },{
+      "rbr": 14,
+      "naziv": "MARIJANA ŠIMUNIĆ RAIČ",
+      "glasova": 25,
+      "posto": "2,06"
+    }]
+  },{
+    "rbr": 9,
+    "stranke": [
+      {"naziv": "STRANKA IVANA PERNARA"}
+    ],
+    "jedinstvenaSifra": "259",
+    "glasova": 954,
+    "naziv": "STRANKA IVANA PERNARA",
+    "posto": "1,08",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "IVAN PERNAR",
+      "glasova": 658,
+      "posto": "68,97"
+    },{
+      "rbr": 2,
+      "naziv": "VINKO KOJUNDŽIĆ",
+      "glasova": 8,
+      "posto": "0,83"
+    },{
+      "rbr": 3,
+      "naziv": "GORANKA DOROTIĆ",
+      "glasova": 3,
+      "posto": "0,31"
+    },{
+      "rbr": 4,
+      "naziv": "DEJAN KLJAJIĆ",
+      "glasova": 38,
+      "posto": "3,98"
+    },{
+      "rbr": 5,
+      "naziv": "ZORAN GUNJEVIĆ",
+      "glasova": 5,
+      "posto": "0,52"
+    },{
+      "rbr": 6,
+      "naziv": "MISLAV PERKUŠIĆ",
+      "glasova": 8,
+      "posto": "0,83"
+    },{
+      "rbr": 7,
+      "naziv": "IVANKA LEPEJ",
+      "glasova": 3,
+      "posto": "0,31"
+    },{
+      "rbr": 8,
+      "naziv": "ANA-MARIJA BARNJAK LOVRIĆ",
+      "glasova": 4,
+      "posto": "0,41"
+    },{
+      "rbr": 9,
+      "naziv": "EDIN ČAUŠEVIĆ",
+      "glasova": 1,
+      "posto": "0,10"
+    },{
+      "rbr": 10,
+      "naziv": "SANJA VUKELIĆ",
+      "glasova": 3,
+      "posto": "0,31"
+    },{
+      "rbr": 11,
+      "naziv": "MARLON WURTZ GABROVEC",
+      "glasova": 2,
+      "posto": "0,20"
+    },{
+      "rbr": 12,
+      "naziv": "RUŽA FRANJIČEVIĆ",
+      "glasova": 0,
+      "posto": "0,00"
+    },{
+      "rbr": 13,
+      "naziv": "PAVAO LUTRING",
+      "glasova": 3,
+      "posto": "0,31"
+    },{
+      "rbr": 14,
+      "naziv": "MATEA ĐURIĆ",
+      "glasova": 5,
+      "posto": "0,52"
+    }]
+  },{
+    "rbr": 10,
+    "stranke": [
+      {"naziv": "RADNIČKA FRONTA - RF"}
+    ],
+    "jedinstvenaSifra": "168",
+    "glasova": 656,
+    "naziv": "RF",
+    "posto": "0,74",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "HRVOJE ŠTEFAN",
+      "glasova": 62,
+      "posto": "9,45"
+    },{
+      "rbr": 2,
+      "naziv": "DORA ZVJERKOVIĆ",
+      "glasova": 32,
+      "posto": "4,87"
+    },{
+      "rbr": 3,
+      "naziv": "RENATO BABOJELIĆ",
+      "glasova": 12,
+      "posto": "1,82"
+    },{
+      "rbr": 4,
+      "naziv": "NATAŠA MEDVED",
+      "glasova": 18,
+      "posto": "2,74"
+    },{
+      "rbr": 5,
+      "naziv": "DALIBOR PISKREC",
+      "glasova": 3,
+      "posto": "0,45"
+    },{
+      "rbr": 6,
+      "naziv": "MARIJA JELINČIĆ",
+      "glasova": 18,
+      "posto": "2,74"
+    },{
+      "rbr": 7,
+      "naziv": "VINKO KOROTAJ DRAČA",
+      "glasova": 4,
+      "posto": "0,60"
+    },{
+      "rbr": 8,
+      "naziv": "MIA KOROLIJA",
+      "glasova": 24,
+      "posto": "3,65"
+    },{
+      "rbr": 9,
+      "naziv": "IVAN REP",
+      "glasova": 7,
+      "posto": "1,06"
+    },{
+      "rbr": 10,
+      "naziv": "IVANA ROGAR",
+      "glasova": 6,
+      "posto": "0,91"
+    },{
+      "rbr": 11,
+      "naziv": "VLATKO BALAIĆ",
+      "glasova": 0,
+      "posto": "0,00"
+    },{
+      "rbr": 12,
+      "naziv": "DAJANA DELIĆ",
+      "glasova": 4,
+      "posto": "0,60"
+    },{
+      "rbr": 13,
+      "naziv": "TIN JURAKOVIĆ",
+      "glasova": 5,
+      "posto": "0,76"
+    },{
+      "rbr": 14,
+      "naziv": "TOMISLAV FIKET",
+      "glasova": 28,
+      "posto": "4,26"
+    }]
+  },{
+    "rbr": 11,
+    "stranke": [
+      {"naziv": "SOCIJALDEMOKRATI"},
+      {"naziv": "ISTARSKI DEMOKRATSKI SABOR - IDS"},
+      {"naziv": "PRIMORSKO GORANSKI SAVEZ - PGS"},
+      {"naziv": "HRVATSKI LABURISTI - STRANKA RADA - LABURISTI"},
+      {"naziv": "DEMOKRATI"}
+    ],
+    "jedinstvenaSifra": "005006100251299",
+    "glasova": 567,
+    "naziv": "SOCIJALDEMOKRATI, IDS, PGS, LABURISTI, DEMOKRATI",
+    "posto": "0,64",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "NIKŠA VUKAS",
+      "glasova": 67,
+      "posto": "11,81"
+    },{
+      "rbr": 2,
+      "naziv": "ALEKSANDRA BIŠKUPEC ŠEVIĆ",
+      "glasova": 10,
+      "posto": "1,76"
+    },{
+      "rbr": 3,
+      "naziv": "DENIS HRESTAK",
+      "glasova": 32,
+      "posto": "5,64"
+    },{
+      "rbr": 4,
+      "naziv": "KATIJA ĆULAV",
+      "glasova": 17,
+      "posto": "2,99"
+    },{
+      "rbr": 5,
+      "naziv": "MIROSLAV DUKIĆ",
+      "glasova": 29,
+      "posto": "5,11"
+    },{
+      "rbr": 6,
+      "naziv": "JASNA BODRUŽIĆ",
+      "glasova": 13,
+      "posto": "2,29"
+    },{
+      "rbr": 7,
+      "naziv": "ŽELJKO DRAGŠIĆ",
+      "glasova": 5,
+      "posto": "0,88"
+    },{
+      "rbr": 8,
+      "naziv": "SNJEŽANA VIDAKOVIĆ",
+      "glasova": 19,
+      "posto": "3,35"
+    },{
+      "rbr": 9,
+      "naziv": "IRENA POJE-OXENHAM",
+      "glasova": 6,
+      "posto": "1,05"
+    },{
+      "rbr": 10,
+      "naziv": "DRAGO BLAŽUN",
+      "glasova": 3,
+      "posto": "0,52"
+    },{
+      "rbr": 11,
+      "naziv": "ŽELJKO JOZIĆ",
+      "glasova": 1,
+      "posto": "0,17"
+    },{
+      "rbr": 12,
+      "naziv": "MATIJA MALETIĆ",
+      "glasova": 8,
+      "posto": "1,41"
+    },{
+      "rbr": 13,
+      "naziv": "TATJANA HUDIĆ",
+      "glasova": 6,
+      "posto": "1,05"
+    },{
+      "rbr": 14,
+      "naziv": "BOSILJKA JURIČ",
+      "glasova": 5,
+      "posto": "0,88"
+    }]
+  },{
+    "rbr": 12,
+    "stranke": [
+      {"naziv": "HRVATSKA STRANKA PRAVA - HSP"},
+      {"naziv": "HRVATSKO BILO"},
+      {"naziv": "HRVATSKA DEMOKRATSKA SELJAČKA STRANKA - HDSS"}
+    ],
+    "jedinstvenaSifra": "007018308",
+    "glasova": 426,
+    "naziv": "HSP, HRVATSKO BILO, HDSS",
+    "posto": "0,48",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "MARKO JURIĆ",
+      "glasova": 157,
+      "posto": "36,85"
+    },{
+      "rbr": 2,
+      "naziv": "IVAN ILIČIĆ",
+      "glasova": 29,
+      "posto": "6,80"
+    },{
+      "rbr": 3,
+      "naziv": "JOZO KRAJINOVIĆ",
+      "glasova": 10,
+      "posto": "2,34"
+    },{
+      "rbr": 4,
+      "naziv": "MARIJAN SMILJANIĆ",
+      "glasova": 3,
+      "posto": "0,70"
+    },{
+      "rbr": 5,
+      "naziv": "MELANI BILKIĆ",
+      "glasova": 7,
+      "posto": "1,64"
+    },{
+      "rbr": 6,
+      "naziv": "ANTONIJA MARJANOVIĆ",
+      "glasova": 5,
+      "posto": "1,17"
+    },{
+      "rbr": 7,
+      "naziv": "IVAN PANDŽA",
+      "glasova": 17,
+      "posto": "3,99"
+    },{
+      "rbr": 8,
+      "naziv": "MIRA ILIČIĆ",
+      "glasova": 11,
+      "posto": "2,58"
+    },{
+      "rbr": 9,
+      "naziv": "SNJEŽANA BILKIĆ",
+      "glasova": 1,
+      "posto": "0,23"
+    },{
+      "rbr": 10,
+      "naziv": "ANTE MARJANOVIĆ",
+      "glasova": 3,
+      "posto": "0,70"
+    },{
+      "rbr": 11,
+      "naziv": "ANKICA MATIJEVIĆ",
+      "glasova": 4,
+      "posto": "0,93"
+    },{
+      "rbr": 12,
+      "naziv": "MIRA SMILJANIĆ",
+      "glasova": 4,
+      "posto": "0,93"
+    },{
+      "rbr": 13,
+      "naziv": "DRAGAN POCRNJA",
+      "glasova": 2,
+      "posto": "0,46"
+    },{
+      "rbr": 14,
+      "naziv": "DOMAGOJ PINTARIĆ",
+      "glasova": 20,
+      "posto": "4,69"
+    }]
+  },{
+    "rbr": 13,
+    "stranke": [
+      {"naziv": "NEOVISNA LISTA - DAMIR-KRISTIJAN ROGINA"}
+    ],
+    "jedinstvenaSifra": "4610",
+    "glasova": 352,
+    "naziv": "NEOVISNA LISTA - DAMIR-KRISTIJAN ROGINA",
+    "posto": "0,39",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "DAMIR-KRISTIJAN ROGINA",
+      "glasova": 32,
+      "posto": "9,09"
+    },{
+      "rbr": 2,
+      "naziv": "JOSIPA JURIČEV-SUDAC",
+      "glasova": 26,
+      "posto": "7,38"
+    },{
+      "rbr": 3,
+      "naziv": "MICHAEL SHARP",
+      "glasova": 6,
+      "posto": "1,70"
+    },{
+      "rbr": 4,
+      "naziv": "DANIJEL GRGIČIN",
+      "glasova": 19,
+      "posto": "5,39"
+    },{
+      "rbr": 5,
+      "naziv": "ZRINKA KIRETA",
+      "glasova": 12,
+      "posto": "3,40"
+    },{
+      "rbr": 6,
+      "naziv": "SNJEŽANA AGOSTINI",
+      "glasova": 5,
+      "posto": "1,42"
+    },{
+      "rbr": 7,
+      "naziv": "KREŠIMIR DROPULJIĆ",
+      "glasova": 5,
+      "posto": "1,42"
+    },{
+      "rbr": 8,
+      "naziv": "TOMISLAV ČOLAKIĆ",
+      "glasova": 18,
+      "posto": "5,11"
+    },{
+      "rbr": 9,
+      "naziv": "KRISTINA FILIPOVIĆ",
+      "glasova": 11,
+      "posto": "3,12"
+    },{
+      "rbr": 10,
+      "naziv": "JOSIP GOLOJUH",
+      "glasova": 4,
+      "posto": "1,13"
+    },{
+      "rbr": 11,
+      "naziv": "ŽELJKO SONIČKI",
+      "glasova": 2,
+      "posto": "0,56"
+    },{
+      "rbr": 12,
+      "naziv": "ZORICA ŠAMIJA",
+      "glasova": 1,
+      "posto": "0,28"
+    },{
+      "rbr": 13,
+      "naziv": "VALENTINA PAVLAKOVIĆ",
+      "glasova": 13,
+      "posto": "3,69"
+    },{
+      "rbr": 14,
+      "naziv": "IRENA FRANCEKOVIĆ",
+      "glasova": 6,
+      "posto": "1,70"
+    }]
+  },{
+    "rbr": 14,
+    "stranke": [
+      {"naziv": "POKRET ZA MODERNU HRVATSKU"}
+    ],
+    "jedinstvenaSifra": "118",
+    "glasova": 340,
+    "naziv": "POKRET ZA MODERNU HRVATSKU",
+    "posto": "0,38",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "DAMIR GAŠPAROVIĆ",
+      "glasova": 35,
+      "posto": "10,29"
+    },{
+      "rbr": 2,
+      "naziv": "ZDENA MARIĆ",
+      "glasova": 7,
+      "posto": "2,05"
+    },{
+      "rbr": 3,
+      "naziv": "NEVEN BOTICA",
+      "glasova": 20,
+      "posto": "5,88"
+    },{
+      "rbr": 4,
+      "naziv": "MIRJANA MIHELJA",
+      "glasova": 8,
+      "posto": "2,35"
+    },{
+      "rbr": 5,
+      "naziv": "MLADEN FLEGAR",
+      "glasova": 4,
+      "posto": "1,17"
+    },{
+      "rbr": 6,
+      "naziv": "IVANA PURGAR SABALIĆ",
+      "glasova": 6,
+      "posto": "1,76"
+    },{
+      "rbr": 7,
+      "naziv": "MLADEN VISKOVIĆ",
+      "glasova": 5,
+      "posto": "1,47"
+    },{
+      "rbr": 8,
+      "naziv": "JOŽICA KOVAČ",
+      "glasova": 11,
+      "posto": "3,23"
+    },{
+      "rbr": 9,
+      "naziv": "LJERKO VIČEVIĆ",
+      "glasova": 2,
+      "posto": "0,58"
+    },{
+      "rbr": 10,
+      "naziv": "LJILJANA PLAVČAK",
+      "glasova": 8,
+      "posto": "2,35"
+    },{
+      "rbr": 11,
+      "naziv": "SEBASTIJAN BERIŠIĆ",
+      "glasova": 1,
+      "posto": "0,29"
+    },{
+      "rbr": 12,
+      "naziv": "JASMINKA BUNTIĆ",
+      "glasova": 7,
+      "posto": "2,05"
+    },{
+      "rbr": 13,
+      "naziv": "ANDRIJA TUCIĆ",
+      "glasova": 0,
+      "posto": "0,00"
+    },{
+      "rbr": 14,
+      "naziv": "DUBRAVKO PEROŠ",
+      "glasova": 12,
+      "posto": "3,52"
+    }]
+  },{
+    "rbr": 15,
+    "stranke": [
+      {"naziv": "AUTOHTONA - HRVATSKA STRANKA PRAVA - DRAŽEN KELEMINEC - A - HSP - Dražen Keleminec"}
+    ],
+    "jedinstvenaSifra": "049",
+    "glasova": 140,
+    "naziv": "A - HSP - Dražen Keleminec",
+    "posto": "0,15",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "LUKA KOLDŽIĆ",
+      "glasova": 30,
+      "posto": "21,42"
+    },{
+      "rbr": 2,
+      "naziv": "MIRJANA TOMAC BOŠNJAK",
+      "glasova": 10,
+      "posto": "7,14"
+    },{
+      "rbr": 3,
+      "naziv": "IVAN ŠTEFANČIĆ",
+      "glasova": 3,
+      "posto": "2,14"
+    },{
+      "rbr": 4,
+      "naziv": "DARKO KUDELIĆ",
+      "glasova": 9,
+      "posto": "6,42"
+    },{
+      "rbr": 5,
+      "naziv": "EDITA BUTI",
+      "glasova": 7,
+      "posto": "5,00"
+    },{
+      "rbr": 6,
+      "naziv": "MIROSLAV BAIĆ",
+      "glasova": 7,
+      "posto": "5,00"
+    },{
+      "rbr": 7,
+      "naziv": "DRAGICA ŽIROVIĆ",
+      "glasova": 1,
+      "posto": "0,71"
+    },{
+      "rbr": 8,
+      "naziv": "BRANKO KOLEDIĆ",
+      "glasova": 3,
+      "posto": "2,14"
+    },{
+      "rbr": 9,
+      "naziv": "SNJEŽANA KUNTIĆ",
+      "glasova": 5,
+      "posto": "3,57"
+    },{
+      "rbr": 10,
+      "naziv": "BRANKO MAJIĆ",
+      "glasova": 3,
+      "posto": "2,14"
+    },{
+      "rbr": 11,
+      "naziv": "ANĐELKA MAJIĆ",
+      "glasova": 3,
+      "posto": "2,14"
+    },{
+      "rbr": 12,
+      "naziv": "GORAN JAKOVIĆ",
+      "glasova": 1,
+      "posto": "0,71"
+    },{
+      "rbr": 13,
+      "naziv": "IVAN GANŽULIĆ",
+      "glasova": 0,
+      "posto": "0,00"
+    },{
+      "rbr": 14,
+      "naziv": "RUŽICA PAVUSA",
+      "glasova": 4,
+      "posto": "2,85"
+    }]
+  },{
+    "rbr": 16,
+    "stranke": [
+      {"naziv": "HRVATSKA STRANKA GRAĐANSKOG OTPORA - HSGO"}
+    ],
+    "jedinstvenaSifra": "247",
+    "glasova": 137,
+    "naziv": "HSGO",
+    "posto": "0,15",
+    "lista": [{
+      "rbr": 1,
+      "naziv": "JOSIP BABOK",
+      "glasova": 19,
+      "posto": "13,86"
+    },{
+      "rbr": 2,
+      "naziv": "TOMO BILOGRIVIĆ",
+      "glasova": 1,
+      "posto": "0,72"
+    },{
+      "rbr": 3,
+      "naziv": "VESNA WEISS",
+      "glasova": 4,
+      "posto": "2,91"
+    },{
+      "rbr": 4,
+      "naziv": "JASMINKA GAZILJ",
+      "glasova": 15,
+      "posto": "10,94"
+    },{
+      "rbr": 5,
+      "naziv": "ERBLIND STAJKI",
+      "glasova": 4,
+      "posto": "2,91"
+    },{
+      "rbr": 6,
+      "naziv": "SUZANA KIRCHOFER",
+      "glasova": 3,
+      "posto": "2,18"
+    },{
+      "rbr": 7,
+      "naziv": "ZORAN OBADIĆ",
+      "glasova": 4,
+      "posto": "2,91"
+    },{
+      "rbr": 8,
+      "naziv": "JULIA RENDULIĆ",
+      "glasova": 5,
+      "posto": "3,64"
+    },{
+      "rbr": 9,
+      "naziv": "ZLATKO ŠVARC",
+      "glasova": 2,
+      "posto": "1,45"
+    },{
+      "rbr": 10,
+      "naziv": "EDINA TOMAN",
+      "glasova": 3,
+      "posto": "2,18"
+    },{
+      "rbr": 11,
+      "naziv": "DRAGO VALENČAK",
+      "glasova": 2,
+      "posto": "1,45"
+    },{
+      "rbr": 12,
+      "naziv": "JASMINE KOS MARKULIN",
+      "glasova": 2,
+      "posto": "1,45"
+    },{
+      "rbr": 13,
+      "naziv": "TOMISLAV BAVARČIĆ",
+      "glasova": 1,
+      "posto": "0,72"
+    },{
+      "rbr": 14,
+      "naziv": "JANJA BABOK",
+      "glasova": 3,
+      "posto": "2,18"
+    }]
+  }]
+}

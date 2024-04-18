@@ -1,0 +1,34 @@
+{
+  "izbori": "Zastupnički izbori 2024",
+  "datum": "17.04.2024.",
+  "vrijeme": "22:45",
+  "izboriOznaka": "23",
+  "ijSifra": "012",
+  "bmSifra": "000",
+  "ijNaziv": "XII. IZBORNA JEDINICA",
+  "gropNaziv": "",
+  "bmNaziv": "",
+  "bmZatvoreno": 4971,
+  "bmUkupno": 6990,
+  "biraciUkupno": 1343,
+  "biraciGlasovalo": 1343,
+  "biraciGlasovaloPosto": "100,00",
+  "listiciUkupno": 1343,
+  "listiciVazeci": 1314,
+  "listiciVazeciPosto": "97,84",
+  "listiciNevazeci": 29,
+  "listiciNevazeciPosto": "2,16",
+  "napomena": "* - objavljeni rezultati sadrže i podatke s posebnih biračkih mjesta te s biračkih mjesta u inozemstvu",
+  "napomena2": "",
+  "lista": [{
+    "rbr": 1,
+    "stranke": [
+      {"naziv": "DEMOKRATSKA ZAJEDNICA MAĐARA HRVATSKE - DZMH - HORVÁTORSZÁGI MAGYAROK DEMOKRATIKUS KÖZÖSSÉGE - HMDK"}
+    ],
+    "jedinstvenaSifra": "508",
+    "glasova": 1314,
+    "naziv": "RÓBERT JANKOVICS",
+    "posto": "",
+    "lista": []
+  }]
+}

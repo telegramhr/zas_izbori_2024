@@ -1,0 +1,74 @@
+{
+  "izbori": "Zastupnički izbori 2024",
+  "datum": "18.04.2024.",
+  "vrijeme": "01:45",
+  "izboriOznaka": "13",
+  "ijSifra": "012",
+  "bmSifra": "000",
+  "ijNaziv": "XII. IZBORNA JEDINICA",
+  "gropNaziv": "",
+  "bmNaziv": "",
+  "bmZatvoreno": 6845,
+  "bmUkupno": 6990,
+  "biraciUkupno": 15762,
+  "biraciGlasovalo": 15762,
+  "biraciGlasovaloPosto": "100,00",
+  "listiciUkupno": 15758,
+  "listiciVazeci": 15174,
+  "listiciVazeciPosto": "96,29",
+  "listiciNevazeci": 584,
+  "listiciNevazeciPosto": "3,71",
+  "napomena": "* - objavljeni rezultati sadrže i podatke s posebnih biračkih mjesta te s biračkih mjesta u inozemstvu",
+  "napomena2": "",
+  "lista": [{
+    "rbr": 1,
+    "stranke": [
+      {"naziv": "SAMOSTALNA DEMOKRATSKA SRPSKA STRANKA - SDSS"}
+    ],
+    "jedinstvenaSifra": "022",
+    "glasova": 11501,
+    "naziv": "MILORAD PUPOVAC",
+    "posto": "",
+    "lista": []
+  },{
+    "rbr": 2,
+    "stranke": [
+      {"naziv": "SAMOSTALNA DEMOKRATSKA SRPSKA STRANKA - SDSS"}
+    ],
+    "jedinstvenaSifra": "022",
+    "glasova": 10715,
+    "naziv": "ANJA ŠIMPRAGA",
+    "posto": "",
+    "lista": []
+  },{
+    "rbr": 3,
+    "stranke": [
+      {"naziv": "SAMOSTALNA DEMOKRATSKA SRPSKA STRANKA - SDSS"}
+    ],
+    "jedinstvenaSifra": "022",
+    "glasova": 10255,
+    "naziv": "DRAGANA JECKOV",
+    "posto": "",
+    "lista": []
+  },{
+    "rbr": 4,
+    "stranke": [
+      {"naziv": "DEMOKRATSKI SAVEZ SRBA - DSS"}
+    ],
+    "jedinstvenaSifra": "306",
+    "glasova": 2177,
+    "naziv": "SRĐAN MILAKOVIĆ",
+    "posto": "",
+    "lista": []
+  },{
+    "rbr": 5,
+    "stranke": [
+      {"naziv": "DRAGAN CRNOGORAC  - KANDIDAT GRUPE BIRAČA"}
+    ],
+    "jedinstvenaSifra": "4609",
+    "glasova": 1869,
+    "naziv": "DRAGAN CRNOGORAC",
+    "posto": "",
+    "lista": []
+  }]
+}
